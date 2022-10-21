@@ -1,0 +1,12 @@
+{
+  "things-style@@minimal-icons-off": true,
+  "things-style@@full-file-names": false,
+  "things-style@@default-font-color": true,
+  "things-style@@editor-font-size": 1.2,
+  "things-style@@font-small": 15,
+  "things-style@@font-smaller": 12,
+  "things-style@@h2-color": "#FFFFFF",
+  "things-style@@h3-color": "#FFFFFF",
+  "things-style@@macOS-translucent": false,
+  "things-style@@cursor": "default"
+}

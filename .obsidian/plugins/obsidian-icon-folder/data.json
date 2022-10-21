@@ -1,0 +1,31 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FasTable",
+      "RiPencilFill",
+      "FarFlag",
+      "FarIdCard",
+      "FarObjectGroup"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraPadding": {
+      "top": 2,
+      "right": 2,
+      "bottom": 2,
+      "left": 2
+    }
+  },
+  "Attachments": "FarFileImage",
+  "Daily Notes": "FarNoteSticky",
+  "Obsidian Tutorial": "FarFlag",
+  "UX UI Journey": "FarObjectGroup",
+  "UST": "FarIdCard",
+  "Templates": "IbStatement",
+  "Excalidraw": "RiPencilFill",
+  "Kanban": "FasTable"
+}

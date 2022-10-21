@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "5f63c6dfa8fe4ec2",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2bbabf970ecac1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf9fc7ea5cac689e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UST/PRINCIPLES OF SYSTEMS THINKING.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f8111ef07fc3d6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2022-10-20.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2351ed810a0ac9f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d954442f1fac6491",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "870b84bb84aa3309",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c72dee43412d21fe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#todo/uxui/course3/week2",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f44c492941e8e85a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 225.5
+  },
+  "right": {
+    "id": "3252daf1f670b78b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fa6d95089370e54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d757f875b26af03f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "UST/PRINCIPLES OF SYSTEMS THINKING.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f3364d77a123ef2b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "UST/PRINCIPLES OF SYSTEMS THINKING.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d86f34d51b706ab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b046b8c0b51f3b06",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "UST/PRINCIPLES OF SYSTEMS THINKING.md"
+              }
+            }
+          },
+          {
+            "id": "4ef7445b4152d55b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "1119673978d99198",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 309.5
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "bf9fc7ea5cac689e",
+  "lastOpenFiles": [
+    "UST/1ST SEM PRELIMS/EVALUATION OF BUSINESS PERFORMANCE, SECURITY, AND AUDIT.md",
+    "UST/EVALUATION OF BUSINESS PERFORMANCE, SECURITY, AND AUDIT.md",
+    "Daily Notes/2022-10-21.md",
+    "Kanban/OCTOBER.md",
+    "Kanban/uxui.md",
+    "Kanban/CAPSTONE.md",
+    "RP.md",
+    "UX UI Links.md",
+    "Daily Notes/2022-10-20.md",
+    "notion portfolio.md"
+  ]
+}
