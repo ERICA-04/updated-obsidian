@@ -54,3 +54,4 @@ war in disinformation and history revision
 
 
 
+![[Pasted image 20221021153936.png]]

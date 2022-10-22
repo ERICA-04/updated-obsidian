@@ -40,5 +40,10 @@ yearly
 number of students gradute every year affects the population
 graduation rate 
 enrollment rate
+drop rate
 list of members
+![[Pasted image 20221021130459.png]]
+UST has an acceptance rate of around 86% with 29% of applicants deciding to enroll.
+[](<University of Santo Tomas. (2013). Retrieved October 21, 2022, from Osau.com website: https://osau.com/schools/7546/university-of-santo-tomas
 
+‌>)

@@ -28,42 +28,56 @@ kanban-plugin: basic
 - [x] - revise resume
 - [x] - watch ele5 & take notes
 - [x] - check readph
+- [x] - start course 4
+- [x] - coursehero
+- [x] - watch mentoring session & take note
+- [x] modify wireframe
+- [x] - revise portfolio
+- [x] start capstone
+- [x] hw bus eval
+- [x] capstone
+- [x] watch techno class last week
+- [x] CCOURSEHRO
 
 
 ## MONDAY
 
-- [x] - start course 4
+- [ ] - review course 1-3
+- [ ] review read ph
+- [ ] finish quiz ele 5
 
 
 ## TUESDAY
 
-- [x] - coursehero
 
 
 ## WEDNESDAY
 
-- [x] - watch mentoring session & take note
-- [x] modify wireframe
 
 
 ## THURSDAY
 
-- [x] - revise portfolio
-- [x] start capstone
 
 
 ## FRIDAY
 
-- [ ] - review course 1-3
-- [x] hw bus eval
-- [ ] capstone
-- [x] watch techno class last week
+
+
+## Saturday
+
+
+
+## Sunday
+
+- [ ] pack for manila
+- [ ] start week 3
+- [ ] notes eval
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic"}
+{"kanban-plugin":"basic","show-archive-all":false}
 ```
 %%

@@ -8,32 +8,60 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bf9fc7ea5cac689e",
+            "id": "6a624fa47543bc93",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "UST/PRINCIPLES OF SYSTEMS THINKING.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Kanban/OCTOBER.md"
               }
             }
           },
           {
-            "id": "2f8111ef07fc3d6d",
+            "id": "2d8b00cc583f1dae",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanban/OCTOBER.md"
+              }
+            }
+          },
+          {
+            "id": "ee2e8761603e87e5",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanban/OCTOBER.md"
+              }
+            }
+          },
+          {
+            "id": "57ef51a8acbec672",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanban/OCTOBER.md"
+              }
+            }
+          },
+          {
+            "id": "c5be6aeed9c4007e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2022-10-20.md",
+                "file": "Daily Notes/2022-10-22.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -99,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UST/PRINCIPLES OF SYSTEMS THINKING.md",
+                "file": "Daily Notes/2022-10-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UST/PRINCIPLES OF SYSTEMS THINKING.md",
+                "file": "Daily Notes/2022-10-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UST/PRINCIPLES OF SYSTEMS THINKING.md"
+                "file": "Daily Notes/2022-10-22.md"
               }
             }
           },
@@ -169,17 +197,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "bf9fc7ea5cac689e",
+  "active": "c5be6aeed9c4007e",
   "lastOpenFiles": [
-    "UST/1ST SEM PRELIMS/EVALUATION OF BUSINESS PERFORMANCE, SECURITY, AND AUDIT.md",
-    "UST/EVALUATION OF BUSINESS PERFORMANCE, SECURITY, AND AUDIT.md",
-    "Daily Notes/2022-10-21.md",
-    "Kanban/OCTOBER.md",
-    "Kanban/uxui.md",
     "Kanban/CAPSTONE.md",
+    "Kanban/OCTOBER.md",
+    "Kanban/Untitled Kanban.md",
+    "Daily Notes/2022-10-22.md",
+    "UST/READPH.md",
+    "UST/PRINCIPLES OF SYSTEMS THINKING.md",
     "RP.md",
-    "UX UI Links.md",
-    "Daily Notes/2022-10-20.md",
-    "notion portfolio.md"
+    "job links.md",
+    "IT COMPANIES.md",
+    "interview tips.md"
   ]
 }
