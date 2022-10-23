@@ -65,13 +65,13 @@ kanban-plugin: basic
 
 ## Saturday
 
+- [ ] notes eval
 
 
 ## Sunday
 
-- [ ] pack for manila
-- [ ] start week 3
-- [ ] notes eval
+- [x] pack for manila
+- [x] start week 3
 
 
 

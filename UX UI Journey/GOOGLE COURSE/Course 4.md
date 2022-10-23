@@ -567,4 +567,59 @@ five to eight participants when conducting a usability study.
 - gained an understanding of the biases that might come into play during a usability study, and how to reduce that bias. 
 - Discovered how to take notes while observing participants in a usability study.
 
-## WEEK 3:
+## WEEK 3: Analyzing and synthesizing research results
+### Make insights from observations
+**synthesize**
+- you combine ideas to draw conclusions.
+- group data into themes. 
+- We want to find insights that evolve our understanding of users and their needs
+Iterate 
+- means we revise the original design to create a new and improved version. 
+- UX design is all about coming up with an idea, getting feedback from participants or users, and iterating to make the idea better. 
+- We are constantly improving our work.
+
+
+```ad-info
+personal experiences helped the UX team truly empathize with its users and understand exactly what 
+```
+
+From observations to insights
+- Gather the data in one place
+- Organize the Data
+- Find themes 
+- Come up with insights
+
+### Gather, organize, and reflect on data
+Gather data and organize to easy understand 
+**affinity** 
+- is a feeling of like mindedness or compatibility towards something or someone.
+**affinity diagram** 
+- is a method of synthesizing that organizes data into groups with common themes or relationships. 
+- is a quick and easy way to gather observations during a usability study and synthesized data. 
+- To make an affinity diagram, you need all of the observations from participants to be on sticky notes.
+- cluster the sticky notes base on theme
+- By putting sticky notes and clusters, you can easily spot themes across all of the observations from your usability study. 
+- It's also easy to shift ideas around between themes because you can peel and stick the notes in different locations.
+- helps you think outside of the box. 
+- The interactive and visual format of affinity mapping allows you to make connections within your data
+### Find patterns and themes in data
+Processing data from usability study
+- find themes in the data
+
+2 key questions
+- What common patterns have you identified  in the data you collected?
+- What do they tell you about the product design?
+
+- Areas of the affinity diagram with multiple sticky notes usually represent a pattern and later each pattern becomes a theme.
+
+- Identify patterns then turn it to themes then to insights
+
+Qualities of strong insights
+- grounded in real data 
+- answer the research questions 
+- easy to understand
+- increase empathy for the user experience
+
+```ad-info
+We got to find a solution which works for a wide variety of people and not necessarily for a subset of people.
+```

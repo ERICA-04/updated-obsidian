@@ -8,36 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6a624fa47543bc93",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Kanban/OCTOBER.md"
-              }
-            }
-          },
-          {
-            "id": "2d8b00cc583f1dae",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Kanban/OCTOBER.md"
-              }
-            }
-          },
-          {
-            "id": "ee2e8761603e87e5",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Kanban/OCTOBER.md"
-              }
-            }
-          },
-          {
             "id": "57ef51a8acbec672",
             "type": "leaf",
             "state": {
@@ -53,15 +23,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2022-10-22.md",
+                "file": "UX UI Journey/GOOGLE COURSE/Course 4.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-10-22.md",
+                "file": "Kanban/OCTOBER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2022-10-22.md",
+                "file": "Kanban/OCTOBER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2022-10-22.md"
+                "file": "Kanban/OCTOBER.md"
               }
             }
           },
@@ -192,22 +161,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 309.5,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c5be6aeed9c4007e",
+  "active": "57ef51a8acbec672",
   "lastOpenFiles": [
-    "Kanban/CAPSTONE.md",
+    "Daily Notes/2022-10-23.md",
+    "UX UI Journey/GOOGLE COURSE/Course 4.md",
     "Kanban/OCTOBER.md",
-    "Kanban/Untitled Kanban.md",
+    "Kanban/CAPSTONE.md",
     "Daily Notes/2022-10-22.md",
+    "Kanban/Untitled Kanban.md",
     "UST/READPH.md",
     "UST/PRINCIPLES OF SYSTEMS THINKING.md",
     "RP.md",
-    "job links.md",
-    "IT COMPANIES.md",
-    "interview tips.md"
+    "job links.md"
   ]
 }

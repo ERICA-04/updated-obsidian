@@ -14,11 +14,10 @@
     "#todo/uxui",
     "#todo/database",
     "#todo/notes",
-    "#todo/ele5",
     "#todo/capstone/templates",
     "#todo/code",
-    "#todo/obsidianplugins",
-    "#todo/casptone/templates"
+    "#todo/casptone/templates",
+    "#todo/obsidianplugins"
   ],
   "_hiddenTags": []
 }
