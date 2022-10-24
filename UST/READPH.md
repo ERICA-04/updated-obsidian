@@ -54,4 +54,14 @@ war in disinformation and history revision
 
 
 
-![[Pasted image 20221021153936.png]]
+![[Pasted image 20221021153936.png]]![[Pasted image 20221021153936.png]]
+
+primary sources
+secondary sources
+written records
+records of past
+oral history
+internal criticism
+external criticism
+historical facts
+enumeration ata yung dulo sa slides 27 28

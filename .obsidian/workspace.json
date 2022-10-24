@@ -11,9 +11,12 @@
             "id": "57ef51a8acbec672",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban/OCTOBER.md"
+                "file": "UST/READPH.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -96,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban/OCTOBER.md",
+                "file": "UST/READPH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban/OCTOBER.md",
+                "file": "UST/READPH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban/OCTOBER.md"
+                "file": "UST/READPH.md"
               }
             }
           },
@@ -169,15 +172,15 @@
   },
   "active": "57ef51a8acbec672",
   "lastOpenFiles": [
+    "UST/PRINCIPLES OF SYSTEMS THINKING.md",
+    "UST/TECHNOPRENEURSHIP.md",
+    "Daily Notes/2022-10-24.md",
+    "Kanban/OCTOBER.md",
     "Daily Notes/2022-10-23.md",
     "UX UI Journey/GOOGLE COURSE/Course 4.md",
-    "Kanban/OCTOBER.md",
     "Kanban/CAPSTONE.md",
     "Daily Notes/2022-10-22.md",
     "Kanban/Untitled Kanban.md",
-    "UST/READPH.md",
-    "UST/PRINCIPLES OF SYSTEMS THINKING.md",
-    "RP.md",
-    "job links.md"
+    "UST/READPH.md"
   ]
 }
