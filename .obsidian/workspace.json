@@ -8,7 +8,40 @@
         "type": "tabs",
         "children": [
           {
-            "id": "57ef51a8acbec672",
+            "id": "111c3e13904bbf63",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanban/NOVEMEBER.md"
+              }
+            }
+          },
+          {
+            "id": "5c80099725d16d49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UST/PRINCIPLES OF SYSTEMS THINKING.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca15c06be90b9094",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanban/NOVEMEBER.md"
+              }
+            }
+          },
+          {
+            "id": "657040560d306041",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,21 +52,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c5be6aeed9c4007e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UX UI Journey/GOOGLE COURSE/Course 4.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -167,20 +188,17 @@
     "width": 309.5,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "57ef51a8acbec672",
+  "active": "657040560d306041",
   "lastOpenFiles": [
-    "UST/PRINCIPLES OF SYSTEMS THINKING.md",
-    "UST/TECHNOPRENEURSHIP.md",
-    "Daily Notes/2022-10-24.md",
-    "Kanban/OCTOBER.md",
-    "Daily Notes/2022-10-23.md",
-    "UX UI Journey/GOOGLE COURSE/Course 4.md",
-    "Kanban/CAPSTONE.md",
-    "Daily Notes/2022-10-22.md",
-    "Kanban/Untitled Kanban.md",
-    "UST/READPH.md"
+    "Kanban/NOVEMEBER.md",
+    "UST/READPH.md",
+    "Untitled 1.md",
+    "Daily Notes/2022-12-04.md",
+    "Untitled 2.md",
+    "Untitled.md",
+    "Untitled 3.md",
+    "UST/CAPSTONE PROJECT 2.md",
+    "Daily Notes/2022-12-03.md",
+    "Daily Notes/2022-12-02.md"
   ]
 }

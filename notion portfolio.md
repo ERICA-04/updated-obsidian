@@ -12,3 +12,13 @@ about
 academic projects
 solo projects
 contact 
+
+![[Pasted image 20221105212850.png]]
+![[Pasted image 20221105212900.png]]
+![[Pasted image 20221105213525.png]]
+![[Pasted image 20221105224042.png]]
+'
+- Improved discord moderation with added commands and logs such as deleted messages logs, announcement command, and member profiles.
+- In this project, I was assign to be the project manager. It was my responsibility to delegate tasks equally according to their capacity and roles, make sure that all deadlines are met, and deliverables are complete. I was also the one who communicates with our professor to make sure that the requirements given to us were clear.
+
+![[Pasted image 20221107155057.png]]

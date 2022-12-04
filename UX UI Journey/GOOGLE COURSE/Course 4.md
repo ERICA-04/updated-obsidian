@@ -623,3 +623,116 @@ Qualities of strong insights
 ```ad-info
 We got to find a solution which works for a wide variety of people and not necessarily for a subset of people.
 ```
+
+## WEEK 4: Sharing research insights for better designs 
+- Share
+### Understand research sharing methods
+2 formats to share insights
+1. presentations / deck
+- is a group of slides where each slide has new information. Presentations provide your stakeholders with a high-level overview of the project.
+-  four sections: 
+    - study details
+    - themes
+    - insights and recommendations
+    - appendix.
+2. research report 
+- is a document with fewer visuals containing the same information as the presentation. 
+- Research reports will often place the summary of the research insights and recommendations before the detailed insights. 
+- This allows stakeholders to quickly read the actionable information.
+
+
+Tips for creating a strong presentation
+Tip 1: Know your audience
+- personalized approach keeps your audience engaged during your presentation and increases your ability to gain their support for your project.
+
+Tip 2: Provide an overview
+- Include a short roadmap or "table of contents" at the beginning of your presentation, so your audience knows what to expect throughout the presentation. 
+
+Tip 3: Tell a story
+- Storytelling is more powerful than sharing a list of research insights because your audience can observe the emotions, pain points, and delights of your product from a real user’s point of view.
+
+Tip 4: Show numbers
+- A strong image often communicates more clearly than words. Use data, graphs, and charts to illustrate your most important insights.
+
+Tip 5: Less is more when it comes to text
+- Keep the information you present short and to the point. Your slides should only include high-level details that answer questions like why, what, and how.
+- If necessary, you can add additional resources in the appendix of your presentation for the audience to review later.
+
+Tip 6: Provide recommendations for next steps
+- End the presentation with a list of recommended next steps based on the insights you presented. 
+- Your recommendations might include changes to make to the product designs, additional research to conduct, or future meetings to schedule. 
+- This step helps gain support from stakeholders and will put the pieces in place to move forward in the design process.
+
+Tip 7: Leave time for questions
+- At the end of your presentation, be sure to leave a few minutes so your audience can ask questions about the material you presented and can clarify any points.
+
+**Presentations**
+- project background explains what led you to conduct this research, including why the insights were needed and what impact they will have on decisions being made. 
+**Study details.**
+- I'm going to refer to my research plan again to complete this slide quickly.
+
+**Prototype or design mock.** 
+- we need to add a screenshot of the product or feature that we asked participants to provide feedback about.
+
+**Theme section.** 
+- This is where we share some of the themes from the synthesis of our data. 
+- Each theme has its own slide.
+- add a quote from participant
+- add a screenshot of the low-fidelity prototype that highlights the issues participants had with this task.
+- 
+**Insights and recommendations.** 
+- It's helpful to prioritize your research insights from the most urgent to the least urgent. 
+- You'll likely do this prioritization with project stakeholders like a fellow designer, the product manager, or an engineering lead. 
+- There are a few insights that should be considered a Priority Zero or P0, which means they must be fixed for your product to work.
+- users weren't able to book a dog walker in our dog walking app.
+- Or were there parts of your design where users felt tricked? This might indicate a deceptive pattern.
+- any parts of your design that were inequitable or inaccessible
+- Recommendations are actions we think the stakeholders should take based on our study.
+**appendix** 
+- This is where you can add slides with extra data on topics your audience might have more detailed questions on. 
+- For example, a detailed list of participants and their characteristics. 
+- you would not show these slides or talk about them as part of your presentation.
+
+[SCRIPT PRFESENTATION](https://www.coursera.org/learn/conduct-ux-research/ungradedWidget/nUkdZ/present-research-findings)
+
+### Present research insights
+Tips
+- Be concise
+    - While it’s great to use stories and data to keep your audience engaged, be sure that everything you share adds value to your presentation.
+- Keep your tone conversational
+    - Your tone and the content of your presentation should be appropriate for the audience that you are connecting with.
+- Use stories
+- Allow pauses
+    - Pauses display confidence and help set the pace for your presentation.
+- Make eye contact
+    - This helps you connect with members of the audience and keeps everyone engaged in your presentation.
+
+
+- Is this product something that users are going to benefit from? 
+- identify whether a product is something that people are going to use or going to want to use or going to find useful. 
+- And also like to use or whether maybe it's something that they won't end up using at all.
+
+
+Handling questions and objections
+- Know your material well. 
+- Repeat the question.
+- Don’t get defensive.
+- Be concise.
+- Don’t rush to respond.
+    - “That’s a good question. Let me think about that for a moment.” If a few seconds isn’t long enough to find a good response, you can say, “I might need to think on that some more. Can I get back to you?”
+
+### Change designs using new insights
+
+- In the real world, many US researchers want to have 5 to 8 participants. 
+- usability studies should have a minimum of five participants. 
+- Research shows having five participants can provide a large enough sample size for generating valuable feedback. 
+- The recent studies are often capped at eight participants is that research shows there is often diminishing returns on investment if additional participants are added to the study.
+- UX design is a really iterative process, very often prioritizing and advocating for user needs becomes the responsibility of the UX researcher and designer. 
+- This is especially important when it comes to better understanding the needs of groups that have been historically underrepresented in user studies.
+
+# Course Summary
+- plan a research study 
+- conduct research with a usability study. 
+- analyzed and synthesized research results. 
+- share and promote research insights.
+- modify designs based on research insights.

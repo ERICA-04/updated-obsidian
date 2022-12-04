@@ -31,7 +31,7 @@ stock
 async next week
 
 #todo/ele5  
-- [ ] quiz by group
+- [x] quiz by group
 
 ![[Pasted image 20221021121419.png]]
 references
@@ -46,4 +46,39 @@ list of members
 UST has an acceptance rate of around 86% with 29% of applicants deciding to enroll.
 [](<University of Santo Tomas. (2013). Retrieved October 21, 2022, from Osau.com website: https://osau.com/schools/7546/university-of-santo-tomas
 
-‌>)
+## Wednesday [[2022-10-26]]
+### Agent-Based Modelling
+
+Why study complex system?
+- so that when something goes wrong it can easily be detected and find solution
+- important to decision making - predictions
+- to predict, projection and learn from it
+- one representation is numeric simulation/ mathematical equations
+
+modeling
+- give data and modeling but decisions are up to you and how you will take the result
+- predictions are there to guide and help understand the system
+- instead of real simulation, do modeling to decrease cost and risk
+- like the chances of airplane crash
+- weather
+
+agent features
+- cars
+- ants
+- corn
+
+agent modeling
+- looks into the behavior of agent 
+- simulate in a situation
+- ano reaction ni agent
+- behavior-oriented modeling
+
+simulations
+- exaggeration of the real world to know what wil; hapen 
+
+goal-oriented
+- more of those who can make decision or change actions depend on goal or objective
+
+
+![[Pasted image 20221201001416.png]]
+10 mins and q and a

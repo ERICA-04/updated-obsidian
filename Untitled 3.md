@@ -28,3 +28,7 @@ RECAP WEEK 3
 - Develop low-fidelity digital prototypes on figma
 - Understand how to avoid the effects of deceptive patterns in designs
 - 
+
+
+
+
