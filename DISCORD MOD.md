@@ -6,7 +6,7 @@ play game
 
 linis discord
 
-![[Pasted image 20220922170613.png]]
+
 Tapos yung rules channel, paki ayos na mods lang pwede magchat
 #todo/teletigers
 - [x] LINIS DISCORD

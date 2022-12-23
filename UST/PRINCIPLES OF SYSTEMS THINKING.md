@@ -82,3 +82,7 @@ goal-oriented
 
 ![[Pasted image 20221201001416.png]]
 10 mins and q and a
+
+rich picture
+sa gitna policy
+around is stakeholders affecting it and how it aFFECTS

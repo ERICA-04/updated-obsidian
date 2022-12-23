@@ -16,9 +16,6 @@ kanban-plugin: basic
 - [x] FINAL SCREENSHOTS
 - [x] capstone chap 5
 - [x] sla
-- [ ] test with users
-- [ ] signatures
-- [ ] appendix
 - [x] user  manual
 
 
@@ -39,10 +36,27 @@ kanban-plugin: basic
 
 ## IN PROGRESS
 
+- [ ] test with users
+- [ ] appendix
+- [ ] signatures
 
 
 ## DONE
 
+- [x] finish indiv readph
+- [x] king maker
+- [x] dec 10 case study
+- [x] passing group activity
+- [x] idiv act readph
+- [x] portfolio
+- [x] read ph ppt about movie
+- [x] READPH ppt slide 5
+- [x] ele 5
+- [x] el presidnete
+- [x] gawa sched
+- [x] read ph 4/5 and 5/5
+- [x] readph recorded 1/5?
+- [x] code
 - [x] presentation eval
 - [x] ppt eval
 - [x] passing eval
@@ -106,38 +120,54 @@ kanban-plugin: basic
 
 ## SUNDAY
 
-- [ ] host
 - [ ] eval recorded  1/5?
+- [ ] host
 - [ ] finish user manual
-- [ ] dec 10 case study
 - [ ] TEST CASES
-- [ ] read ph 4/5 and 5/5
+- [x] discord
+- [x] portfolio
+- [x] make a list of company and contacts
 
 
 ## MONDAY
 
+- [x] passing read ph
+- [x] driving
+- [x] lapit na matapos portfolio
 
 
 ## TUESDAY
 
+- [x] ele 5 reviewer
+- [x] 1- 4pm driving
+- [x] review ele 5
 
 
 ## WEDNESDAY
 
+- [x] 2-5 driving
+- [x] 10 -11 am exam ele 5
 
 
 ## THURDAY
 
+- [x] ready for interview
+- [x] portfolio
 
 
 ## FRIDAY
 
+- [x] interview
+- [x] eval reviewer
+- [x] deploy portfolioio
 
 
 ## SATURDAY
 
-- [x] code
-- [x] readph recorded 1/5?
+- [x] deploy ticketing system
+- [x] 8-10 am exam eval
+- [ ] deploy cakes over flowerrs
+- [ ] documentation capsrtone
 
 
 

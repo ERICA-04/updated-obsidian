@@ -15,7 +15,7 @@ bugs and errors present.
 
 gives the power and flexibility to track and  resolve request quickly.
 
-with service request management ensures that the requestr is routed to right team's queue where agents can view sort and update reuqest . 
+with service request management ensures that the request is routed to right team's queue where agents can view sort and update reuqest . 
 
 after the agent has resolve the issue the customer is notided of the resolution 
 ![[Pasted image 20221117190901.png]]
@@ -94,12 +94,11 @@ The software contains few attributes which are visually appealing and with logic
 The software contains some attributes which are visually appealing and with logically laid out components to enable the user to effectively perform the required tasks
 
 The software is not visually appealing and not appropriate to its intended users
-\
+
+
 
 page
-need instruciton
-42
-43 REJECTING NEW service request
+need instruction
 76 - view resolved ticketS
 78 - all tickets page
 111 - view user account
@@ -108,11 +107,8 @@ need instruciton
 123 - editing of resolving ticket solutions
 134-135 - HELP DESK AND IT SUPPORT VIEW
 
-not done in system + 1
-43-48//
-52 - view rejected service req
-61-67 my ticket reopen pages - view reopened tickets//
-83 - 86 - VIEW ALL REOPENED TICKETS//
+
+appendices 
 
 
 - effects of social media to early maturity of grade --students of --
@@ -130,8 +126,8 @@ not done in system + 1
 <mark style="background: #FFF3A3A6;"> - no email pag nirereject//</mark>
 <mark style="background: #FFF3A3A6;"> - no email pag nagsubmit ng ticket (nalabas to pag nireject ata)//</mark>
 <mark style="background: #FFF3A3A6;"> - list of issues - edit and delete button not working//</mark>
-  - dashboard//
-  -   add resolved/cancelled date sa tables //
+- dashboard//
+  - add resolved/cancelled date sa tables //
   - lahat ng reopen inde nagana
   - date overdue how ====
  - date voided/can celed ala sa db =====

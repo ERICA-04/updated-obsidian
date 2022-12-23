@@ -2,7 +2,7 @@ The clash between attention and distraction is why UX designers need to consider
 Technology makes many things faster and easier, but it shouldn’t control people’s lives. Recently, companies have started to understand the psychological impact of technology and are updating their designs to help users stay away from the pitfalls of the attention economy.
 The idea of attention economy has become increasingly important to the discussion of how design can positively and negatively affect users. The more we respect users’ time, attention, and experiences, the easier it will be to keep the focus of design on people, their needs, and the ways they can enjoy technology.
 **Understand your impact as a UX designer**
-UX designers have a unique opportunity to improve the way technology impacts the lives of people around the world. 
+<mark style="background: #FFF3A3A6;">UX designers have a unique opportunity to improve the way technology impacts the lives of people around the world. </mark>
 
 consider how marginalized and underrepresented populations might react to your designs.
 

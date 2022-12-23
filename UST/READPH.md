@@ -445,7 +445,9 @@ historical fact
 Filipino colonizing themselves
 
 ### The history of Filipino People
+ABOUT NAIK
 ### Katipunan and the revolution memoirs of a general
+ELECTION , OATH TAKING, DAYAAN SA BALOTA
 ### Battle of Tirad Pass
 
 - greatest mistake of andres
@@ -479,3 +481,146 @@ Filipino colonizing themselves
 - fear history
 - 
 ## Thursday, [[2022-12-1]]
+### Battle of Tirad Pass Cont.
+### Benevolent Assimilation
+by William McKinley
+by Emilio Aguinaldo Fil ver
+### Pres. Aguinaldo Reply to Mckinley's Proclamation
+
+- 1887-1888 - start of revolution
+-  Primo de Revera
+	-  kinausap si Emilio Aguinaldo to cease fire during the war of spaniards and katipuneros
+	- biyak na bato agreement in bulacan
+		- exile ang katipuneros sa hongkong with 800,000
+		- 400,000 muna with hostage of pamangkin of Primo to ensure the half of 800,000
+		- nagshopping mga katipuneros for family
+		- patuloy pa rin mga natirang heneral sa pilipinas sa gera
+- America in
+	- surplus
+	- sumabog ang barkong maine - world trade center
+		- pinakamalaking ssakyang pang dagat ng america
+		- mind power and glory of america
+		- america nag pasabog but they believe na spain
+	- declare war between spain and america
+	- then treaty of paris
+		- to end war
+		- hiningi ng america ibenta ng spain mga nasakaop na bansa
+		- paano ang handing over ng ph - MOCK BATTLE as suggest by spaniards
+		- palabasin na pinaglaban ng spain ang PH
+		- americans talked with emilio to make sure the win in mock battle in case spaniards betrayed them
+		- Emilio Aguinaldo agreed with americans na tulungan lang sila makamit freedom without any price
+		- 2 hrs war 
+		- pinayuhan si emilio na magtatag ng isang revolutionary government then declare independece day but madaming amerikano sa liko niya
+	- Filipino American war
+		- because of **benevolent assimilation** - friendly colonization
+			- mapagkandiling pananakop - caring loving
+			- first slogan
+			- slogan to temp us to cooperate with them
+		- **manifest destiny**
+			- second slogan
+			- to show - kapalaran
+			- white's man burden - responsibilidad nila ng tayo ay itaguyod
+			- justify their presence
+		- the filipino insurrection 
+			- rebellion
+			- tinutulungan na nga kayo nag rerebelde ka pa
+		- Gregorio del Pilar
+			- pogi
+			- distributes  dasalan ng tocsohan
+			- general, task to protect the way of emilio aguinaldo para makatakas sa America
+			- ISSUE - sino pinaglaban si aguinaldo o ang bayan
+		- namatay mga amerikano dahil sa/;
+			- guerilla - pinapahirapan mga amerikano, torture
+			- sa init
+			- sakit sa babae 
+		- Batas susupil?
+			- flag law
+			- rebelde
+			- law para magtigil yung pag patay sa american
+		- calibre 45
+			- hindi namamatay agad filipino kaya imbento amerikano ng baril
+		- then nadakip si emilio
+			- sa isabela
+			- 1901
+			- sumunpa ng katapatan sa amerika
+		- latag ng colonial government
+- Miguel Lopez de Legazpi
+	- madali sakupin PH bcs of divisions
+	- and easy gain trust
+	- just be friendly
+
+
+## EL PRESIDENTE NOTES
+
+## Tuesday, [[2022-12-06]]
+### Jone's Law
+- 1916
+- US withdraw power from PH gov
+- by William Atkinson Jones
+- published in the official gazette
+- signed by pres woodrow wilson
+- framework
+v2
+- 1987 constituion of the ph
+- pres corazon aquino
+- proclaime on feb 11, 1987
+- freedom constitution
+- formulated right after martial law
+- government
+- protected  rights
+- delegation of task within the government
+### Martial Law
+Proclamation No. 1081
+v1
+- Proclaiming a state of martial law
+- by Ferdinand Marcos
+- 10th president
+- Mindaonao Idepen dence Movement
+v2
+- sec sources
+- Atty Jacqueline Ann De Guia
+v3
+- connugal dictatorship of ferdinand and imerks
+- by press censor and propagandit promitive mijares
+- reporter
+v4
+- manila squatters
+- by Pamela G. Hollie
+- 5,000 imprisoement
+- 6 months in prison
+
+- fraudelent loan?
+
+what is martial law
+- martial means sundalo
+- mas makapangyarihan ang sundalo kaysa sa civillian
+- suspension of hebeas corpus
+    - kaarapatang ipagtanggol ang sarili
+- for extension of power
+
+monday
+indiv
+a. 7 - 10 bullets personal impression on martial law
+b. 7 -10 knowldge about martial law
+c. facts about martial law after watching king maker 
+d. what others believe about martial law
+    - golden age
+    - 
+group
+1-10 bullet points - personal impression
+
+thursdsy
+group 1 members
+titke movie
+group's impressions on  the movie
+4th slides - ano maganda sa ph 
+physical geo, location compose of island
+5th slides - magagandang bagay tungkol satin
+    magagndang syudad
+    sceneires natural parks
+    fiestas
+    luzoj to mindano
+10-15 slides - magaagndasng pangayayri sa historu
+     reslience
+     chererful
+ last slide summary
