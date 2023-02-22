@@ -7,7 +7,6 @@ kanban-plugin: basic
 ## todo
 
 - [ ] prepare for interview
-- [ ] find internship ux/ui related
 - [ ] book session for mock up interview
 - [ ] LEARN MORE ABOUT STORY TELLING
 - [ ] change confirm buttons to save buttons
@@ -24,6 +23,7 @@ kanban-plugin: basic
 
 ## completed
 
+- [ ] find internship ux/ui related
 - [x] book mentor for checking wireframes
 - [x] start course 4
 - [x] prepare resume

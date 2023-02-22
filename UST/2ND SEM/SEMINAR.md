@@ -1,0 +1,6 @@
+[Data Privacy and Cybersecurity in a world with AI](https://www.eventbrite.com/e/data-privacy-and-cybersecurity-in-a-world-with-ai-tickets-539735733107?aff=ebdssbonlinesearch)
+[# 2023 EDGE in Tech Symposium: Smarter Tech for a Resilient Future](https://www.eventbrite.com/e/2023-edge-in-tech-symposium-smarter-tech-for-a-resilient-future-tickets-489912831467?aff=ebdssbonlinesearch)
+[# ISO/IEC 27018:2019 Information Technology Awareness](https://www.eventbrite.com/e/isoiec-270182019-information-technology-awareness-130-tickets-545804173977?aff=ebdssbonlinesearch&keep_tld=1)
+[# UF MS in Information Systems and Operations Management Information Session](https://www.eventbrite.com/e/uf-ms-in-information-systems-and-operations-management-information-session-tickets-487719842177?aff=ebdssbonlinesearch&lang=en-us&status=30&locale=en_US&internal_ref=social&view=listing)
+[# Operational Technology Cybersecurity Virtual Showcase](https://www.eventbrite.com/e/operational-technology-cybersecurity-virtual-showcase-tickets-506683904197?aff=ebdssbonlinesearch)
+[# A Career in Information Technology - The Present and Future](https://www.eventbrite.com/e/a-career-in-information-technology-the-present-and-future-tickets-549557229467?aff=ebdssbonlinesearch&keep_tld=1)
