@@ -1,0 +1,1 @@
+[article on Medium](https://medium.com/@andreas.johansson.dev/ux-process-how-do-you-know-when-your-design-is-done-a-simple-14-point-checklist-21b747e82954) or this [article from UX Planet](https://uxplanet.org/how-do-i-know-if-my-design-is-finished-a996543820b4)

@@ -1,0 +1,6 @@
+-   Read [How to create a UX Sitemap: a simple guideline](https://uxdesign.cc/how-to-create-a-ux-sitemap-a-simple-guideline-8786c16f85c1) from UX Collective to learn more about building flat and deep sitemaps.
+    
+-   Connecting pages within a sitemap is critical to how users will navigate a website. Learn about how different content pages can relate to one another by reading [Sitemaps and IA](https://xd.adobe.com/ideas/process/information-architecture/sitemap-and-information-architecture/) from Adobe XD.
+    
+-   Need a little sitemap inspiration? Adobe XD has you covered with an article that showcases five visual sitemaps so you can start thinking about how you can structure your own: [Example sitemaps for websites](https://xd.adobe.com/ideas/process/information-architecture/visual-sitemap-examples-website-designs/).
+The Beginner’s Guide to Information Architecture in UX](https://xd.adobe.com/ideas/process/information-architecture/introductory-guide-to-information-architecture/) or this article from UX Planet about [the basics of IA for designers](https://uxplanet.org/information-architecture-basics-for-designers-b5d43df62e20)

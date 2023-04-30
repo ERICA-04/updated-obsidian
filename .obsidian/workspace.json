@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a2bbabf970ecac1b",
+        "id": "17fc0e72b5d18d67",
         "type": "tabs",
         "children": [
           {
-            "id": "092a0e29ca181648",
+            "id": "707178e12a566f10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UX UI Journey/GOOGLE COURSE/Course 4.md",
+                "file": "UX UI Journey/UXUI/UX PORTFOLIO.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "797f81d0fcefa901",
+            "id": "5e29f8084631cd20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UX UI Journey/GOOGLE COURSE/Course 5.md",
+                "file": "Daily Notes/2023-04-29.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,12 +34,38 @@
             }
           },
           {
-            "id": "46b6859efd62ef63",
+            "id": "b93195dc55054418",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2023-02-22.md",
+                "file": "JOB INTERVIEW TIPS.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c496b3846095299c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2023-04-26.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "508b729e256168a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2023-04-24.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "disability",
+                "query": "icons",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-02-22.md",
+                "file": "Daily Notes/2023-04-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-02-22.md",
+                "file": "Daily Notes/2023-04-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2023-02-22.md"
+                "file": "Daily Notes/2023-04-29.md"
               }
             }
           },
@@ -194,17 +220,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46b6859efd62ef63",
+  "active": "5e29f8084631cd20",
   "lastOpenFiles": [
-    "Daily Notes/2023-02-22.md",
-    "UST/2ND SEM/SPANISH.md",
-    "FOURELLO/UAT NOTES.md",
-    "Daily Notes/2023-02-21.md",
-    "UX UI Journey/GOOGLE COURSE/Course 4.md",
-    "UX UI Journey/GOOGLE COURSE/Course 5.md",
-    "FOURELLO/INTERNSHIP - Fourello.md",
-    "Daily Notes/2023-02-20.md",
-    "UX UI Journey/GOOGLE COURSE/Course 2.md",
-    "FOURELLO/2ND DAY.md"
+    "Daily Notes/2023-04-27.md",
+    "Daily Notes/2023-04-29.md",
+    "UX UI Journey/GOOGLE COURSE/COURSE 7.md",
+    "Attachments/Pasted image 20230426221614.png",
+    "UX UI Journey/UXUI/UX PORTFOLIO.md",
+    "JOB INTERVIEW TIPS.md",
+    "WHITE BOARD INTERVIEW.md",
+    "Daily Notes/2023-04-26.md",
+    "Attachments/Pasted image 20230425224648.png",
+    "Attachments/Pasted image 20230425224639.png",
+    "Attachments/Pasted image 20230425224625.png",
+    "Attachments/Pasted image 20230425224620.png",
+    "Attachments/Pasted image 20230425220238.png",
+    "Attachments/Pasted image 20230425220212.png",
+    "Attachments/Pasted image 20230425220156.png",
+    "Attachments/Pasted image 20230425215651.png",
+    "Attachments/Pasted image 20230425213514.png",
+    "UX UI Journey/UXUI/UX UI Links.md",
+    "Daily Notes/2023-04-25.md",
+    "UX UI Journey/UXUI/WEBSITE FOR UXUI.md",
+    "linkedin profile sample.md",
+    "Daily Notes/2023-04-12.md",
+    "Daily Notes/2023-04-24.md",
+    "UX UI Journey/UXUI/uxui portfolio.md",
+    "Daily Notes/2023-04-23.md",
+    "Daily Notes/2023-04-22.md",
+    "RESUME SAMPLE.md",
+    "Daily Notes/2023-04-20.md",
+    "Daily Notes/2023-04-19.md",
+    "UX UI Journey/GOOGLE COURSE/COURSE 6.md",
+    "Daily Notes/2023-04-18.md",
+    "Untitled.md",
+    "Untitled 3.md",
+    "Daily Notes/2023-04-17.md",
+    "UX UI Journey/UXUI/PROTOTYPES.md",
+    "Daily Notes/2023-04-14.md",
+    "content",
+    "UX UI Journey/UXUI",
+    "ADOBE XD"
   ]
 }

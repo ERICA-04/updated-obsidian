@@ -1,0 +1,7 @@
+-   **Orange** is energetic and warm. Some common associations with orange include creativity, enthusiasm, lightheartedness, and affordability.
+-   **Red** is the color of blood, so it’s often associated with energy, war, danger, and power but also passion, desire, and love. Some common associations with red include action, adventure, aggression, and excitement.
+-   **Yellow** evokes positivity, youth, joy, playfulness, sunshine, and warmth.
+-   **Pink** evokes feelings of innocence and delicateness, gratitude, romance, softness, and appreciation.
+-   **Blue** is perceived as authoritative, dependable, and trustworthy. Common associations with blue include calmness, serenity, confidence, dignity, and security.
+-   **Green** is the color of nature. It symbolizes growth, freshness, serenity, money, health, and healing.
+-   **Black** represents power, elegance, and authority. Common associations with black also include class, distinction, formality, mystery, secrecy, and seriousness.

@@ -1,0 +1,1 @@
+Applying golden ratio professionals can quickly define an appropriate proportion between the typographic levels, for example, you can choose a certain size for the header and then divide it by 1.618. The result will show you the most appropriate size for subheaders.

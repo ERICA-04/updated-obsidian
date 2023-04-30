@@ -1,0 +1,18 @@
+-   [Google Material Design](https://www.figma.com/@materialdesign)
+- [design systems](https://designerup.co/blog/10-best-design-systems-and-how-to-learn-and-steal-from-them/)
+- -   [Shopify Polaris](https://www.figma.com/@shopify)
+- -   [Shopify Polaris](https://www.figma.com/@shopify)
+- -   [Salesforce Lightning](https://www.figma.com/@salesforce)
+- -   [Atlassian Design System](https://www.figma.com/@atlassian)
+- -   [Uber Base Web](https://www.figma.com/@uber)
+- -   [Shopify’s Design System Polaris](https://polaris.shopify.com/)
+- -   [Microsoft Fluent Design System](https://www.microsoft.com/design/fluent/#/)
+- -   [AirBnb's Design System](https://airbnb.design/building-a-visual-language/)
+- [design system gov](https://designsystem.digital.gov/)
+- ![[Pasted image 20230321203740.png]]
+- 
+-   [Video 1 - Foundations](https://www.youtube.com/watch?v=EK-pHkc5EL4&list=PLXDU_eVOJTx6ZQswH9nVKVMCsK83OzhoV) (55 minutes) which will help you kick off designing a design system from scratch, including typography and colors.
+- -   [Video 2 - Components](https://www.youtube.com/watch?v=9xUXTFzDDCo&list=PLXDU_eVOJTx6ZQswH9nVKVMCsK83OzhoV&index=2) (55 minutes) where you’ll add to your design system by building foundational components and organize them using pages, frames, names, and descriptions.
+- -   [Video 3 - Components continued](https://www.youtube.com/watch?v=XCsVDvvlz4E&list=PLXDU_eVOJTx6ZQswH9nVKVMCsK83OzhoV&index=3) (55 minutes) which will introduce more complex components like cards, media objects, dialogues, navigations, and forms, to include in your design system.
+- -   [Video 3 - Components continued](https://www.youtube.com/watch?v=XCsVDvvlz4E&list=PLXDU_eVOJTx6ZQswH9nVKVMCsK83OzhoV&index=3) (55 minutes) which will introduce more complex components like cards, media objects, dialogues, navigations, and forms, to include in your design system.
+- -   [Video 3 - Components continued](https://www.youtube.com/watch?v=XCsVDvvlz4E&list=PLXDU_eVOJTx6ZQswH9nVKVMCsK83OzhoV&index=3) (55 minutes) which will introduce more complex components like cards, media objects, dialogues, navigations, and forms, to include in your design system.
